@@ -1,0 +1,67 @@
+/* General style */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 20, 2);
+    border-image: fill;
+    line-height: 1.6;
+    background-color: #60f533;
+    image-orientation: 0grad;
+}
+.container{
+    width: 80%;
+    margin: auto;
+    overflow:scroll;
+    
+}
+/* header */
+header {
+    background: fixed;
+    color: #fff;
+    padding: 10px 0;
+}
+
+}
+ h1 {
+    text-align: center;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style:oblique;
+text-decoration-color: rgb(45, 45, 167);
+    text-decoration-style: dotted;
+    background-image: -moz-element();
+
+    
+}
+ul li a {
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(76, 18, 151);
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: #af0d0d;
+    
+        
+}
+section {
+    text-align: center;
+    text-decoration: double;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    image-rendering: optimizeQuality;
+}
+div {
+  text-decoration: dotted; 
+  font-size: medium; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+} 
+.div.contact{
+    font-size: medium;
+    background-color: #60f533;
+    font-weight: bold;
+}
